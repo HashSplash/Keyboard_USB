@@ -1,2 +1,2 @@
 # Keyboard_USB
-NKR Keyboard on zephyr on 
+NKR Keyboard on zephyr on USB
